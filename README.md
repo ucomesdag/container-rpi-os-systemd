@@ -1,7 +1,7 @@
 Raspberry Pi OS (x86) Systemd Container Image
 =====================
 
-> This is an debian x86 based image with some of the same packages present as on Raspberry Pi OS.
+> This is a debian x86 based image with some of the packages present on Raspberry Pi OS.
 
 This Containerfile can build containers capable to use systemd.
 
